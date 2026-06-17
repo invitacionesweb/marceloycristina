@@ -295,7 +295,7 @@ nav {
 /*FOTOS*/
 .novios {
     width: 100%;
-    height: 60VH;
+    height: AUTO;
     background-image: url(./img-editable/textura1.png);
     background-size: cover;
     background-position: center;
